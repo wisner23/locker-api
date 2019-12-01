@@ -1,0 +1,12 @@
+hash: 4cfec0fd2041a2ecb58ed763b1fc234e6484021c3306b4e57bcc484cb91ff697
+updated: 2019-11-28T09:54:05.434023136-03:00
+imports:
+- name: github.com/astaxie/beego
+  version: 32ee728078c84c28f2642c70745afc8f6830044d
+  subpackages:
+  - orm
+- name: github.com/gin-gonic/gin
+  version: 15ced05c5316609bce5b43389f8e3f06102a8b18
+- name: github.com/lib/pq
+  version: 3427c32cb71afc948325f299f040e53c1dd78979
+testImports: []
